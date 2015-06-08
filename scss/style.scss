@@ -88,3 +88,41 @@ img {
 /**
  * YOUR CODE HERE
  */
+ .title{
+    display: inline;
+    position: absolute;
+    float: right; 
+    font-size: 5em;
+    color: rgb(187, 203, 188) ;
+    font-family: 'Metal Mania', cursive;
+    padding: 10% 0% 0% 0%;
+
+
+        }
+
+
+.toolbar{
+
+    display: absolute;
+    float: right;
+    margin: 1% 5% 0% 5%;
+}
+
+
+input{ 
+
+    font-family: 'Metal Mania', cursive;
+    width:353px;
+    height:75px;
+    font-size: 2em;
+
+}
+ 
+
+
+
+
+
+
+
+
